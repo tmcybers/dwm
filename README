@@ -52,7 +52,6 @@ and (re)compiling the source code.
 ```
 /usr/src
 ```
-
 ```
 sudo git clone git://git.suckless.org/surf
 ```
