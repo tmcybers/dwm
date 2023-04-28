@@ -52,11 +52,13 @@ and (re)compiling the source code.
 ```
 /usr/src
 ```
+
 ```
 sudo git clone git://git.suckless.org/surf
 ```
 
 *Dependencies*
+
 ```
 gcr (gcr-nogtk)
 webkit2gtk (webkit2gtk-mse, webkit2gtk-wpe-bin, webkit2gtk-unstable)
